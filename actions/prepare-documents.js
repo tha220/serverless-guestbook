@@ -1,5 +1,5 @@
 /**
- * Prepare the guestbook entry to be persisted
+ * Prepare the feedback entry to be persisted
  */
 function main(params) {
   if (!params.name || !params.comment) {
